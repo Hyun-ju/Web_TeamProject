@@ -1,5 +1,5 @@
 # Web_TeamProject
-2018 dev.
+dev in 2018.
 
 # Team Member
 김채림, 김현주
